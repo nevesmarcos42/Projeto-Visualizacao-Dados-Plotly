@@ -19,10 +19,10 @@ git clone https://github.com/nevesmarcos42/projeto-visualizacao-dados-plotly.git
 cd projeto-visualizacao-dados-plotly
 pip install plotly
 
-🌟 Contribuições
+ Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir issues e enviar pull requests.
 
-📞 Contato
+ Contato
 Para mais informações, entre em contato:
 
 Email: nevesmarcos42@gmail.com
